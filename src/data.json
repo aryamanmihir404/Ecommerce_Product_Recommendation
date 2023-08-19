@@ -1,0 +1,233 @@
+[
+    {
+      "id": 1,
+      "name": "Smartphone Model X",
+      "category": "Electronics",
+      "price": 499.99,
+      "currency": "USD",
+      "description": "High-performance smartphone with advanced features.",
+      "availability": true,
+      "rating": 4.8,
+      "reviews": [
+        {
+          "user": "customer123",
+          "rating": 5,
+          "review": "I love this phone! It's incredibly fast and the camera is fantastic."
+        },
+        {
+          "user": "user456",
+          "rating": 4,
+          "review": "Great value for the price. Battery life could be better though."
+        }
+      ],
+      "image_url": "https://example.com/images/smartphone_model_x.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Wireless Bluetooth Headphones",
+      "category": "Electronics",
+      "price": 89.99,
+      "currency": "USD",
+      "description": "High-quality wireless headphones with noise-cancellation.",
+      "availability": true,
+      "rating": 4.5,
+      "reviews": [
+        {
+          "user": "musiclover87",
+          "rating": 5,
+          "review": "These headphones exceeded my expectations. The sound quality is amazing!"
+        },
+        {
+          "user": "gymgoer",
+          "rating": 4,
+          "review": "Good headphones for workouts, but the battery life could be longer."
+        }
+      ],
+      "image_url": "https://example.com/images/wireless_headphones.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Cotton Crewneck T-Shirt",
+      "category": "Clothing",
+      "price": 19.99,
+      "currency": "USD",
+      "description": "Comfortable and versatile t-shirt made from soft cotton.",
+      "availability": true,
+      "rating": 4.2,
+      "reviews": [
+        {
+          "user": "fashionista22",
+          "rating": 5,
+          "review": "I have this t-shirt in multiple colors. It's a wardrobe essential!"
+        },
+        {
+          "user": "casualshopper",
+          "rating": 3,
+          "review": "Decent quality, but it shrunk a bit after washing."
+        }
+      ],
+      "image_url": "https://example.com/images/cotton_tshirt.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Gaming Laptop Pro",
+      "category": "Electronics",
+      "price": 1299.99,
+      "currency": "USD",
+      "description": "Powerful gaming laptop with high-resolution display and dedicated graphics.",
+      "availability": true,
+      "rating": 4.9,
+      "reviews": [
+        {
+          "user": "gamer123",
+          "rating": 5,
+          "review": "This laptop runs all my games smoothly at max settings. Impressed!"
+        },
+        {
+          "user": "gamingenthusiast",
+          "rating": 4,
+          "review": "Great performance, but the fan noise can get a bit loud."
+        }
+      ],
+      "image_url": "https://example.com/images/gaming_laptop.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Leather Crossbody Bag",
+      "category": "Fashion Accessories",
+      "price": 79.99,
+      "currency": "USD",
+      "description": "Stylish leather crossbody bag for everyday use.",
+      "availability": true,
+      "rating": 4.6,
+      "reviews": [
+        {
+          "user": "fashionista89",
+          "rating": 5,
+          "review": "I adore this bag! The quality is fantastic and it fits everything I need."
+        },
+        {
+          "user": "practicalshopper",
+          "rating": 4,
+          "review": "Looks great, but I wish it had more internal compartments."
+        }
+      ],
+      "image_url": "https://example.com/images/leather_bag.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Fitness Tracker Watch",
+      "category": "Fitness",
+      "price": 49.99,
+      "currency": "USD",
+      "description": "Track your workouts and monitor your health with this fitness tracker watch.",
+      "availability": true,
+      "rating": 4.3,
+      "reviews": [
+        {
+          "user": "fitnessexpert",
+          "rating": 4,
+          "review": "Accurate tracking, but the app could use some improvements."
+        },
+        {
+          "user": "healthenthusiast",
+          "rating": 5,
+          "review": "Helped me stay on top of my fitness goals. Very pleased!"
+        }
+      ],
+      "image_url": "https://example.com/images/fitness_tracker.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Ultra HD Smart TV",
+      "category": "Electronics",
+      "price": 999.99,
+      "currency": "USD",
+      "description": "Immerse yourself in stunning visuals with this Ultra HD smart TV.",
+      "availability": true,
+      "rating": 4.7,
+      "reviews": [
+        {
+          "user": "movielover",
+          "rating": 5,
+          "review": "Watching movies on this TV feels like a cinematic experience!"
+        },
+        {
+          "user": "techenthusiast",
+          "rating": 4,
+          "review": "Great picture quality, but the remote control could be more intuitive."
+        }
+      ],
+      "image_url": "https://example.com/images/smart_tv.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Classic Wooden Chess Set",
+      "category": "Toys & Games",
+      "price": 39.99,
+      "currency": "USD",
+      "description": "Elegant wooden chess set for hours of strategic fun.",
+      "availability": true,
+      "rating": 4.1,
+      "reviews": [
+        {
+          "user": "chessmaster",
+          "rating": 5,
+          "review": "Beautifully crafted set. Perfect for both beginners and experienced players."
+        },
+        {
+          "user": "familygamer",
+          "rating": 3,
+          "review": "Pieces are nice, but the board could be a bit larger."
+        }
+      ],
+      "image_url": "https://example.com/images/chess_set.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Stainless Steel Kitchen Knife Set",
+      "category": "Home & Kitchen",
+      "price": 69.99,
+      "currency": "USD",
+      "description": "Complete set of durable stainless steel kitchen knives.",
+      "availability": true,
+      "rating": 4.4,
+      "reviews": [
+        {
+          "user": "homechef",
+          "rating": 5,
+          "review": "These knives are sharp and reliable. A must-have for any kitchen."
+        },
+        {
+          "user": "cookingenthusiast",
+          "rating": 4,
+          "review": "Great value for the variety of knives included in the set."
+        }
+      ],
+      "image_url": "https://example.com/images/kitchen_knife_set.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Casual Canvas Sneakers",
+      "category": "Footwear",
+      "price": 29.99,
+      "currency": "USD",
+      "description": "Comfortable and stylish canvas sneakers for everyday wear.",
+      "availability": true,
+      "rating": 4.0,
+      "reviews": [
+        {
+          "user": "sneakerlover",
+          "rating": 4,
+          "review": "Nice casual shoes for the price. They fit well and look good."
+        },
+        {
+          "user": "walkenthusiast",
+          "rating": 3,
+          "review": "Decent quality, but could use more cushioning for long walks."
+        }
+      ],
+      "image_url": "https://example.com/images/canvas_sneakers.jpg"
+    }
+  ]
+  

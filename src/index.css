@@ -1,3 +1,16 @@
+.carousel-container {
+  height: 30%; /* Initially, set the height to 100% of the parent container */
+}
+
+/* Apply this style when the window width is 768px or less */
+@media (max-width: 768px) {
+  .carousel-container {
+    height: 30vh; /* Set the height to 30% of the viewport height */
+  }
+}
+
+
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
